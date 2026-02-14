@@ -1,11 +1,9 @@
 import {
-  Facebook,
   Instagram,
   Youtube,
   Mail,
   Phone,
   MapPin,
-  Clock,
   FacebookIcon,
 } from "lucide-react";
 
@@ -64,7 +62,7 @@ export function Footer() {
               <li>
                 <a
                   href="#"
-                  className="text-sm sm:text-base text-white hover:text-[#FF5722]"
+                  className="text-sm sm:text-base text-white hover:text-zinc-300"
                 >
                   About Us
                 </a>
@@ -72,7 +70,7 @@ export function Footer() {
               <li>
                 <a
                   href="#"
-                  className="text-sm sm:text-base text-white hover:text-[#FF5722]"
+                  className="text-sm sm:text-base text-white hover:text-zinc-300"
                 >
                   Loan Services
                 </a>
@@ -80,7 +78,7 @@ export function Footer() {
               <li>
                 <a
                   href="#"
-                  className="text-sm sm:text-base text-white hover:text-[#FF5722]"
+                  className="text-sm sm:text-base text-white hover:text-zinc-300"
                 >
                   Branches
                 </a>
@@ -88,7 +86,7 @@ export function Footer() {
               <li>
                 <a
                   href="#"
-                  className="text-sm sm:text-base text-white hover:text-[#FF5722]"
+                  className="text-sm sm:text-base text-white hover:text-zinc-300"
                 >
                   Careers
                 </a>
@@ -96,7 +94,7 @@ export function Footer() {
               <li>
                 <a
                   href="#"
-                  className="text-sm sm:text-base text-white hover:text-[#FF5722]"
+                  className="text-sm sm:text-base text-white hover:text-zinc-300"
                 >
                   Articles
                 </a>
@@ -111,7 +109,7 @@ export function Footer() {
               <li>
                 <a
                   href="#"
-                  className="text-sm sm:text-base text-white hover:text-[#FF5722]"
+                  className="text-sm sm:text-base text-white hover:text-zinc-300"
                 >
                   Sangla OR/CR
                 </a>
@@ -119,7 +117,7 @@ export function Footer() {
               <li>
                 <a
                   href="#"
-                  className="text-sm sm:text-base text-white hover:text-[#FF5722]"
+                  className="text-sm sm:text-base text-white hover:text-zinc-300"
                 >
                   Car Financing
                 </a>
@@ -127,7 +125,7 @@ export function Footer() {
               <li>
                 <a
                   href="#"
-                  className="text-sm sm:text-base text-white hover:text-[#FF5722]"
+                  className="text-sm sm:text-base text-white hover:text-zinc-300"
                 >
                   Truck Financing
                 </a>
@@ -135,7 +133,7 @@ export function Footer() {
               <li>
                 <a
                   href="#"
-                  className="text-sm sm:text-base text-white hover:text-[#FF5722]"
+                  className="text-sm sm:text-base text-white hover:text-zinc-300"
                 >
                   Sangla Titulo
                 </a>
@@ -143,7 +141,7 @@ export function Footer() {
               <li>
                 <a
                   href="#"
-                  className="text-sm sm:text-base text-white hover:text-[#FF5722]"
+                  className="text-sm sm:text-base text-white hover:text-zinc-300"
                 >
                   JUANAsenso
                 </a>
@@ -156,20 +154,20 @@ export function Footer() {
             <h4 className="text-base sm:text-lg mb-4 sm:mb-6">Contact Us</h4>
             <ul className="space-y-3 sm:space-y-4">
               <li className="flex items-start gap-3">
-                <MapPin className="w-4 h-4 sm:w-5 sm:h-5 text-white shrink-0 mt-1" />
-                <span className="text-sm sm:text-base text-white">
+                <MapPin className="w-4 h-4 sm:w-5 sm:h-5 text-white shrink-0 mt-1 " />
+                <span className="text-sm sm:text-base text-white hover:text-zinc-300">
                   Manila, Philippines
                 </span>
               </li>
               <li className="flex items-start gap-3">
-                <Phone className="w-4 h-4 sm:w-5 sm:h-5 text-white shrink-0 mt-1" />
-                <span className="text-sm sm:text-base text-white">
+                <Phone className="w-4 h-4 sm:w-5 sm:h-5 text-white shrink-0 mt-1 " />
+                <span className="text-sm sm:text-base text-white hover:text-zinc-300">
                   +63 2 1234 5678
                 </span>
               </li>
               <li className="flex items-start gap-3">
-                <Mail className="w-4 h-4 sm:w-5 sm:h-5 text-white shrink-0 mt-1" />
-                <span className="text-sm sm:text-base text-white">
+                <Mail className="w-4 h-4 sm:w-5 sm:h-5 text-white shrink-0 mt-1 " />
+                <span className="text-sm sm:text-base text-white hover:text-zinc-300">
                   info@safc.ph
                 </span>
               </li>
@@ -180,7 +178,7 @@ export function Footer() {
         {/* Copyright */}
         <div className="border-t border-white pt-6 sm:pt-8 text-center">
           <p className="text-xs sm:text-sm text-white">
-            © 2025 South Asialink Finance Corporation. All rights reserved.
+            © 2026 Wizaroracle. All rights reserved.
           </p>
         </div>
       </div>
